@@ -1,4 +1,6 @@
-Welcome to my GitHub profile! I'm Naqeebali, a computer science student currently pursuing a Master's degree in Applied Computer Science at Dalhousie University.
+# Welcome to my GitHub profile! 👋
+
+I'm Naqeebali, a computer science student currently pursuing a Master's degree in Applied Computer Science at Dalhousie University.
 
 🔭 Currently, I'm focusing on expanding my knowledge in Cloud Computing, Serverless Architecture, and Mobile Computing.
 
@@ -16,4 +18,5 @@ Welcome to my GitHub profile! I'm Naqeebali, a computer science student currentl
 
 🟢 Status: Eagerly seeking collaborative ventures and exciting career opportunities to make a meaningful impact through code.
 
-May the code be with you!
+May the code be with you! 🚀
+
