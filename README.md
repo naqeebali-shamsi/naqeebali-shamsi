@@ -20,4 +20,6 @@ I'm **Naqeebali**, a computer science student currently pursuing a Master's degr
 
 **May the code be with you!** 🚀
 
-![My Skills](https://skillicons.dev/icons?i=py,js,git,github)
+# Skills
+
+![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,aws,gcp,kubernetes,docker,figma,html,css,git,github)
