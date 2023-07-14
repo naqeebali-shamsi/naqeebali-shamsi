@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 👋
+# Hi! 👋 I'm [Naqeebali Shamsi](https://naqeebalishamsi.netlify.app/)
 
 I'm **Naqeebali**, a computer science student currently pursuing a Master's degree in Applied Computer Science at **Dalhousie University**.
 
