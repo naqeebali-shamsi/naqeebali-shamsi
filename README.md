@@ -22,4 +22,4 @@ I'm **Naqeebali**, a computer science student currently pursuing a Master's degr
 
 # Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,aws,gcp,kubernetes,docker,figma,html,css,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,aws,gcp,kubernetes,docker,mongodb,firebase,figma,html,css,git,github)
