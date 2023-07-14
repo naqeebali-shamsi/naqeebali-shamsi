@@ -19,3 +19,5 @@ I'm **Naqeebali**, a computer science student currently pursuing a Master's degr
 🟢 **Status**: Eagerly seeking collaborative ventures and exciting career opportunities to make a meaningful impact through code.
 
 **May the code be with you!** 🚀
+
+![My Skills](https://skillicons.dev/icons?i=py,js,git,github)
