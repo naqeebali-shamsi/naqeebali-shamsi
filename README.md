@@ -22,4 +22,4 @@ I'm **Naqeebali**, a software generalist and recent alumnus of **Dalhousie Unive
 
 # Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,aws,gcp,kubernetes,docker,mongodb,firebase,figma,html,css,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,aws,gcp,kubernetes,docker,mongodb,firebase,figma,html,css,git,github,ionic,vue,capacitor,cpp)
