@@ -1,6 +1,6 @@
-# Hi! 👋 I'm [Naqeebali Shamsi](https://naqeebalishamsi.netlify.app/)
+# Hi! 👋 I'm [Naqeebali Shamsi](https://naqeebali.me/)
 
-I'm **Naqeebali**, a computer science student currently pursuing a Master's degree in Applied Computer Science at **Dalhousie University**.
+I'm **Naqeebali**, a software generalist and recent alumnus of **Dalhousie University**.
 
 🔭 Currently, I'm focusing on expanding my knowledge in **Cloud Computing**, **Serverless Architecture**, and **Mobile Computing**.
 
@@ -10,7 +10,7 @@ I'm **Naqeebali**, a computer science student currently pursuing a Master's degr
 
 💬 Ask me about my favorite topic, "**Clean Code**." I'm always ready to share insights and best practices in writing elegant and maintainable code.
 
-📫 You can reach me at **nq020697@gmail.com**. I'm always happy to connect and discuss new opportunities or answer any questions you may have.
+📫 You can reach me at **nq020697+githuboutreach@gmail.com**. I'm always happy to connect and discuss new opportunities or answer any questions you may have.
 
 😄 Pronouns: **He/Him**
 
