@@ -2,7 +2,7 @@
 
 Software Engineer | Full-stack & Cloud | Toronto / Dubai  
 
-I build reliable systems and enjoy working across the stack — from distributed backends to mobile apps. My focus is on **cloud platforms (AWS, GCP)**, **scalable architectures**, and **developer-first design**.  
+I build reliable systems and enjoy working across the stack: from distributed backends to mobile apps. My focus is on **cloud platforms (AWS, GCP)**, **scalable architectures**, and **developer-first design**.  
 
 ### What I’m working on
 - Exploring **serverless and containerized workflows** for scale and cost-efficiency  
